@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quanp\\source\\repos\\BT-LTM\\Ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3C9523-3BE6-4ECF-AB48-7D69B6FB0BC9}|Ex1\\Ex1.csproj|c:\\users\\quanp\\source\\repos\\bt-ltm\\ex1\\ex1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3C9523-3BE6-4ECF-AB48-7D69B6FB0BC9}|Ex1\\Ex1.csproj|solutionrelative:ex1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3C9523-3BE6-4ECF-AB48-7D69B6FB0BC9}|Ex1\\Ex1.csproj|c:\\users\\quanp\\source\\repos\\bt-ltm\\ex1\\ex1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E3C9523-3BE6-4ECF-AB48-7D69B6FB0BC9}|Ex1\\Ex1.csproj|solutionrelative:ex1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3C9523-3BE6-4ECF-AB48-7D69B6FB0BC9}|Ex1\\Ex1.csproj|c:\\users\\quanp\\source\\repos\\bt-ltm\\ex1\\ex1\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3C9523-3BE6-4ECF-AB48-7D69B6FB0BC9}|Ex1\\Ex1.csproj|solutionrelative:ex1\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3C9523-3BE6-4ECF-AB48-7D69B6FB0BC9}|Ex1\\Ex1.csproj|c:\\users\\quanp\\source\\repos\\bt-ltm\\ex1\\ex1\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3C9523-3BE6-4ECF-AB48-7D69B6FB0BC9}|Ex1\\Ex1.csproj|solutionrelative:ex1\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3C9523-3BE6-4ECF-AB48-7D69B6FB0BC9}|Ex1\\Ex1.csproj|c:\\users\\quanp\\source\\repos\\bt-ltm\\ex1\\ex1\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3C9523-3BE6-4ECF-AB48-7D69B6FB0BC9}|Ex1\\Ex1.csproj|solutionrelative:ex1\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3C9523-3BE6-4ECF-AB48-7D69B6FB0BC9}|Ex1\\Ex1.csproj|c:\\users\\quanp\\source\\repos\\bt-ltm\\ex1\\ex1\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3C9523-3BE6-4ECF-AB48-7D69B6FB0BC9}|Ex1\\Ex1.csproj|solutionrelative:ex1\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3C9523-3BE6-4ECF-AB48-7D69B6FB0BC9}|Ex1\\Ex1.csproj|c:\\users\\quanp\\source\\repos\\bt-ltm\\ex1\\ex1\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E3C9523-3BE6-4ECF-AB48-7D69B6FB0BC9}|Ex1\\Ex1.csproj|solutionrelative:ex1\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quanp\\source\\repos\\BT-LTM\\Ex1\\Ex1\\Client.cs",
+              "RelativeDocumentMoniker": "Ex1\\Client.cs",
+              "ToolTip": "C:\\Users\\quanp\\source\\repos\\BT-LTM\\Ex1\\Ex1\\Client.cs [Design]",
+              "RelativeToolTip": "Ex1\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:58:42.35Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\quanp\\source\\repos\\BT-LTM\\Ex1\\Ex1\\Client.Designer.cs",
+              "RelativeDocumentMoniker": "Ex1\\Client.Designer.cs",
+              "ToolTip": "C:\\Users\\quanp\\source\\repos\\BT-LTM\\Ex1\\Ex1\\Client.Designer.cs",
+              "RelativeToolTip": "Ex1\\Client.Designer.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAvwIkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:58:31.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\quanp\\source\\repos\\BT-LTM\\Ex1\\Ex1\\Client.cs",
+              "RelativeDocumentMoniker": "Ex1\\Client.cs",
+              "ToolTip": "C:\\Users\\quanp\\source\\repos\\BT-LTM\\Ex1\\Ex1\\Client.cs",
+              "RelativeToolTip": "Ex1\\Client.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAiwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:56:22.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "C:\\Users\\quanp\\source\\repos\\BT-LTM\\Ex1\\Ex1\\Packet.cs",
+              "RelativeDocumentMoniker": "Ex1\\Packet.cs",
+              "ToolTip": "C:\\Users\\quanp\\source\\repos\\BT-LTM\\Ex1\\Ex1\\Packet.cs",
+              "RelativeToolTip": "Ex1\\Packet.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAYwHsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:08:48.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quanp\\source\\repos\\BT-LTM\\Ex1\\Ex1\\Server.cs",
+              "RelativeDocumentMoniker": "Ex1\\Server.cs",
+              "ToolTip": "C:\\Users\\quanp\\source\\repos\\BT-LTM\\Ex1\\Ex1\\Server.cs [Design]",
+              "RelativeToolTip": "Ex1\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:05:41.373Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Server.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\quanp\\source\\repos\\BT-LTM\\Ex1\\Ex1\\Server.Designer.cs",
+              "RelativeDocumentMoniker": "Ex1\\Server.Designer.cs",
+              "ToolTip": "C:\\Users\\quanp\\source\\repos\\BT-LTM\\Ex1\\Ex1\\Server.Designer.cs",
+              "RelativeToolTip": "Ex1\\Server.Designer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAApwCsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:05:26.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\quanp\\source\\repos\\BT-LTM\\Ex1\\Ex1\\Server.cs",
+              "RelativeDocumentMoniker": "Ex1\\Server.cs",
+              "ToolTip": "C:\\Users\\quanp\\source\\repos\\BT-LTM\\Ex1\\Ex1\\Server.cs",
+              "RelativeToolTip": "Ex1\\Server.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:04:04.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
